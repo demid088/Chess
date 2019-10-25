@@ -79,7 +79,7 @@ function Digit(row) {
     case 7: return '2';
     case 8: return '1';
     case 9: return '0';
-    default: return col;
+    default: return row;
   }
 }
 
